@@ -1,0 +1,39 @@
+/dts-v1/;
+/plugin/;
+
+/ {
+    compatible = "allwinner,sun8i-h3";
+    fragment@0 {
+        target = <&spi1>;
+        __overlay__ {
+            status = "okay";
+            #address-cells = <1>;
+            #size-cells = <0>;
+            ili9341: ili9341@0{
+                compatible = "ilitek,ili9341";
+                reg = <0>;
+                pinctrl-names = "default";
+                pinctrl-0 = <&ili9341_pins>;
+                spi-max-frequency = <16000000>;
+                rotate = <90>;
+                bgr;
+                fps = <60>;
+                width = <240>;
+                height = <320>;
+                buswidth = <8>;
+                dc-gpios = <&pio 0 12 0>;
+                debug = <0>;
+            };
+        };
+    };
+
+    fragment@1 {
+        target = <&pio>;
+        __overlay__ {
+            ili9341_pins: ili9341_pins {
+                pins = "PA12";
+                function = "gpio_out";
+            };
+        };
+    };
+};
