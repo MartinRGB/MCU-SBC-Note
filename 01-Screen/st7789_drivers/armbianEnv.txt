@@ -1,0 +1,10 @@
+verbosity=1
+bootlogo=true
+console=serial
+disp_mode=320x240p60
+overlay_prefix=sun8i-h3
+overlays=usbhost2 usbhost3
+rootdev=UUID=436d4e55-8407-4f7b-b8b0-8baee2572628
+rootfstype=ext4
+user_overlays=st7789_test
+usbstoragequirks=0x2537:0x1066:u,0x2537:0x1068:u
