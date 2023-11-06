@@ -19,8 +19,8 @@ WaveShare 1.69inch LCD Module
 ### for Raspberry Pi OS:
 
 - download waveshare LCD_Module_code via [this](https://www.waveshare.com/wiki/1.69inch_LCD_Module#Run_Python_Demo) link
-  - create `1inch69_LCD_temp.py` in `{DIR}/LCD_Module_code/RaspberryPi/python`
+  - create `1inch69_LCD_temp.py` in `{YOUR DIR}/LCD_Module_code/RaspberryPi/python`
 
 - make sure `dtparam=spi=on` is uncommented
 
-- add `sudo python3 /home/pi/Desktop/LCD_Module_code/RaspberryPi/python/1inch69_LCD_temp.py &` before `exit 0` in `/etc/rc.local`
+- add `sudo python3 {YOUR DIR}/LCD_Module_code/RaspberryPi/python/1inch69_LCD_temp.py &` before `exit 0` in `/etc/rc.local`
