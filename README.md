@@ -13,3 +13,11 @@
 3. [st7789 rpi stats display](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/01-Screen/st7789_stats_display)
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/b61eb05f-a422-4a89-aa86-575f6ca5eccf" width="50%" height="50%">
+
+## 02-GPU
+
+1. [RPI CM4 GPU Hack]()
+
+   <img src="https://raw.githubusercontent.com/MartinRGB/RaspberryPi-CM4-eGPU-Guide/main/art/UseCases/img_3.jpg" width="50%" height="50%">
+   
+   
