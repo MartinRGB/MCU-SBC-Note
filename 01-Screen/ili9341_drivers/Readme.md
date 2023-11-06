@@ -1,3 +1,6 @@
+### Device used
+
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/4d6785a5-ae0b-494f-b28e-52c1ce881601" width="50%" height="50%">
 
 ### hardware connection
 
