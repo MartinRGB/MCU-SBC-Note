@@ -24,3 +24,5 @@ WaveShare 1.69inch LCD Module
 - make sure `dtparam=spi=on` is uncommented
 
 - add `sudo python3 {YOUR DIR}/LCD_Module_code/RaspberryPi/python/1inch69_LCD_temp.py &` before `exit 0` in `/etc/rc.local`
+
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/b61eb05f-a422-4a89-aa86-575f6ca5eccf" width="50%" height="50%">
