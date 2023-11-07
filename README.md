@@ -16,8 +16,13 @@
 
 ## 02-GPU
 
-1. [RPI CM4 GPU Hack]()
+1. [RPI CM4 GPU Hack](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/02-GPU/CM4-eGPU)
 
    <img src="https://raw.githubusercontent.com/MartinRGB/RaspberryPi-CM4-eGPU-Guide/main/art/UseCases/img_3.jpg" width="50%" height="50%">
    
+## 03-Soldering
+
+1. [Teensy 4.1 Upgrade](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/03-Soldering/Teensy-4.1-Upgrade)
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/1332c469-77d5-4d3c-971b-d53129596ad0" width="50%" height="50%">
    
