@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/62205372-e3a6-4b19-830a-3deec0c595b3" width="50%" height="50%">
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/7921e077-279d-4c2b-a57a-62feb3e030f2" width="50%" height="50%">
 
 ### Device used
 
