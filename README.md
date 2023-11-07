@@ -42,11 +42,11 @@
 
 ## 05-Demo
 
-1. [Cubic Bezier - Micropython]()
+1. [Cubic Bezier - Micropython](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/05-Demo/rpi_pico_mpy_cubic_bezier)
    
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/a8324ec0-9342-4948-9f74-05a2e62f4177" width="50%" height="50%">
 
-2. [Fake Shader - Micropython](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/05-Demo/rpi_pico_mpy_cubic_bezier)
+2. [Fake Shader - Micropython](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/05-Demo/rpi_pico_mpy_fake_shader)
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/7921e077-279d-4c2b-a57a-62feb3e030f2" width="50%" height="50%">
 
