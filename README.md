@@ -31,3 +31,11 @@
 1. [H3 Tiny Computer](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/04/Prototype/H3_Tiny_Computer)
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/541298eb-1428-4145-9eb8-d0831305145f" width="50%" height="50%">
+
+2. [MagicMirror](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/04/Prototype/MagicMirror)
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/0d1e937d-3904-49ee-9c5b-09fe2fd54402" width="50%" height="50%">
+
+3. [GLSLMirror]()
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/f0346820-b614-42f6-9ef1-2d3d8219c3f4" width="50%" height="50%">
