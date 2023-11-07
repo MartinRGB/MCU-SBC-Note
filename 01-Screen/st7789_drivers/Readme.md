@@ -1,22 +1,38 @@
 ### Device used
 
-NanoPi Duo2
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/121d95c0-0a1c-4c41-8781-4cb309207a17" width="50%" height="50%">
 
-<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/4d6785a5-ae0b-494f-b28e-52c1ce881601" width="50%" height="50%">
+- Soldering iron
+- Soldering flux
+- Thermal tape
+- Teensy 4.1
+  
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/29c07168-2092-46e2-9258-6e9608f21e98" width="50%" height="50%">
 
-ST7789 2.4inch
+- PSRAM Chips(Choose one of them)
 
-<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/ea964339-b273-48bb-9381-353dae5f0bb8" width="50%" height="50%">
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/442506ff-4bf8-4cf0-9aea-acea4dca6bdb" width="50%" height="50%">
+  
+  - Lyontek LY68L6400S(Not work for me)
+  - ESP PSRAM64H
+  - AP 6404L-3SQR
 
-### hardware connection
+### Steps
 
-<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/259be656-7c8b-4967-8846-c0865fe931bc" width="50%" height="50%">
 
-from [this](https://www.youtube.com/watch?v=tqfh4gD0zCw) youtube video
+- uses thermal tape to act as a temporary solder mask on Teensy board.
 
-### for armbian:
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/51df1366-cfd5-4ede-a785-ee700affa9f5" width="50%" height="50%">
+  
+- added some solder flux gel on top of the pads.
+  
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/a1afdb37-d79a-47c0-9f89-61bc3bd2891f" width="50%" height="50%">
 
-- `sudo armbian-add-overlay st7789_test.dts`
-- change `/boot/armbianEnv.txt`
+- Soldering
 
-<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/b1cb936e-d9f0-4857-a222-a4695d61c187" width="50%" height="50%">
+ <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/1332c469-77d5-4d3c-971b-d53129596ad0" width="50%" height="50%">
+
+### Test:
+
+- use PaulStoffregen's arduino test sketch —— [teensy41_psram_memtest]((https://github.com/PaulStoffregen/teensy41_psram_memtest))
+  
