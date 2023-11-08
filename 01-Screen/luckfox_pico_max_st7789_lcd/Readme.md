@@ -71,5 +71,17 @@ Modify `DEV_Conig.h` in `c/lib/Config`
 Compile the Code:
 
 ```
+make clean
+make
 ```
 
+
+Copy whole folder to LuckFox Pico Max:
+
+```
+adb -s <device id> push <src> <dest>
+adb -s <device id> shell
+cd <dest>
+chmod 777 main
+./main <LCD inch number>
+```
