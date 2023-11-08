@@ -2,7 +2,7 @@ Reference:
 
 https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-GPIO
 
-Reference:https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-LCD
+https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-LCD
 
 ### Device used
 
