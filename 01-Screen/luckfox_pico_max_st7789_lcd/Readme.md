@@ -43,7 +43,25 @@ for Pico LCD 2inch's key:
 
 ### Compile the IMAGE
 
+modify `<SDK Directory>/sysdrv/source/kernel/arch/arm/boot/dts/rv1106g-luckfox-pico-pro-max.dts`
+
+compile the IMAGE:
+
+```
+cd ~/Luckfox-Pico/luckfox-pico
+./build.sh clean
+./build.sh 
+```
+
+Burn the system via SocToolKit
+
 ### Compile the LCD Code
 
+Modify Makefile with gcc path
 
+gcc path:`<SDK directory\>/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc`
+
+```
+CC=home/luckfox/Luckfox-Pico/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc
+```
 
