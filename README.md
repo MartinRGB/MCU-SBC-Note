@@ -14,6 +14,10 @@
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/b61eb05f-a422-4a89-aa86-575f6ca5eccf" width="50%" height="50%">
 
+4. [LuckFox Pico Max - SPI LCD](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/01-Screen/luckfox_pico_max_st7789_lcd)
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/1b7630d9-d44a-48ff-9da0-7722937cb854" width="50%" height="50%">
+
 ## 02-GPU
 
 1. [RPI CM4 GPU Hack](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/02-GPU/CM4-eGPU)
@@ -39,11 +43,11 @@
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/0d1e937d-3904-49ee-9c5b-09fe2fd54402" width="50%" height="50%">
 
-3. [GLSLMirror]()
+3. [GLSLMirror](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/04-Prototype/GLSLMirror)
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/f0346820-b614-42f6-9ef1-2d3d8219c3f4" width="50%" height="50%">
 
-4. [Buck boost converter & voltmeter]()
+4. [Buck boost converter & voltmeter](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/04-Prototype/Voltmeter)
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/ef93a4f6-2be6-4df4-aca2-389690fc1122" width="50%" height="50%">
 
