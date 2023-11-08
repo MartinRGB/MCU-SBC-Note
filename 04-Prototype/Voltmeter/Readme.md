@@ -25,5 +25,5 @@ OLED Display Module - 0.96 Inch I2C/IIC 4 Pin Blue/Yellow(SSD1316)
 - OLED
 SDA/SCL -> A4/A5 pins
 - Voltage Sensor
-IN -> A0 pins
+S -> A0 pins
 ```
