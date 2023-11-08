@@ -40,6 +40,10 @@
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/f0346820-b614-42f6-9ef1-2d3d8219c3f4" width="50%" height="50%">
 
+4. [Buck boost converter & voltmeter]()
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/ef93a4f6-2be6-4df4-aca2-389690fc1122" width="50%" height="50%">
+
 ## 05-Demo
 
 1. [Cubic Bezier - Micropython](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/05-Demo/rpi_pico_mpy_cubic_bezier)
