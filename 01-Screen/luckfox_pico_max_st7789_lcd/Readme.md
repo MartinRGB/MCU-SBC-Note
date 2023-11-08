@@ -21,14 +21,15 @@ ST7789 LCD/Waveshare Pico LCD 2
 
 Compare Pico LCD 2's GPIO Layout & LuckFox Pico's,The GPIOs used are:
 
-```
-BL  - 72 - GPIO2-PB0
-RST - 51 - GPIO1-PC3
-DIN - 50 - GPIO1-PC2
-CLK - 49 - GPIO1-PC1
-CS  - 48 - GPIO1-PC0
-DC  - 73 - GPIO2-PB1
-```
+| Name | Pin number | GPIO |
+| -------- | ------- |------- |
+| BL |72| GPIO2-PB0|
+| RST|51|GPIO1-PC3|
+| DIN|50|GPIO1-PC2|
+| CLK|49|GPIO1-PC1|
+| CS|48|GPIO1-PC0|
+| DC|73|GPIO2-PB1|
+
 
 <img src="https://user-images.githubusercontent.com/7036706/281272858-ee6a76f8-7652-43e0-b63e-58586f8503f0.png" width="100%" height="100%"/>
 
@@ -63,5 +64,12 @@ gcc path:`<SDK directory\>/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnu
 
 ```
 CC=home/luckfox/Luckfox-Pico/luckfox-pico/tools/linux/toolchain/arm-rockchip830-linux-uclibcgnueabihf/bin/arm-rockchip830-linux-uclibcgnueabihf-gcc
+```
+
+Modify `DEV_Conig.h` in `c/lib/Config`
+
+Compile the Code:
+
+```
 ```
 
