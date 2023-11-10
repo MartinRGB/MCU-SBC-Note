@@ -34,5 +34,5 @@
 
 ### Test:
 
-- use PaulStoffregen's arduino test sketch —— [teensy41_psram_memtest]((https://github.com/PaulStoffregen/teensy41_psram_memtest))
+- use PaulStoffregen's arduino test sketch —— [teensy41_psram_memtest](https://github.com/PaulStoffregen/teensy41_psram_memtest)
   
