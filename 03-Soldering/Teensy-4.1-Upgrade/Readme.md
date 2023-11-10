@@ -1,6 +1,7 @@
 Reference:
 
 https://protosupplies.com/product/teensy-4-1-fully-loaded/
+
 https://www.pjrc.com/store/psram.html
 
 ### Device used
