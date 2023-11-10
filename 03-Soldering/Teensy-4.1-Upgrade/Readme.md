@@ -35,4 +35,5 @@
 ### Test:
 
 - use PaulStoffregen's arduino test sketch —— [teensy41_psram_memtest](https://github.com/PaulStoffregen/teensy41_psram_memtest)
-  
+
+- https://arduino.stackexchange.com/questions/81253/teensy4-1-with-2x-8mb-psram-chips-external-psram-size-0-but-extmem-char-works
