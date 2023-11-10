@@ -22,9 +22,9 @@
 
 1. [RPI CM4 GPU Hack](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/02-GPU/CM4-eGPU)
 
-| Pic 1 | Pic2 |
-| ------------- | ------------- |
-| <img src="https://raw.githubusercontent.com/MartinRGB/RaspberryPi-CM4-eGPU-Guide/main/art/UseCases/img_3.jpg" width="75%" height="50%" style="display: block;margin: 0 auto">  | <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/c0fbb0d8-50a9-4021-822e-5afb3a61587e" width="100%" height="100%">  |
+   <img src="https://raw.githubusercontent.com/MartinRGB/RaspberryPi-CM4-eGPU-Guide/main/art/UseCases/img_3.jpg" width="50%" height="50%" >
+   
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/c0fbb0d8-50a9-4021-822e-5afb3a61587e" width="50%" height="50%"> 
 
 
 ## 03-Soldering
