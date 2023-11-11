@@ -38,8 +38,16 @@ https://www.pjrc.com/store/psram.html
 
   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/1332c469-77d5-4d3c-971b-d53129596ad0" width="50%" height="50%">
 
+  Lyontek LY68L6400S not work for me,I changed them with ESP PSRAM64H,then them works.
+
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/fa609f03-7197-4b8f-a75f-19544ec2d14f" width="50%" height="50%">
+
 ### Test:
 
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/03c5c9d7-a497-433d-aec7-239e1adcc0e5" width="50%" height="50%">
+ 
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/868cff81-eafd-4d59-8008-e114597384b3" width="50%" height="50%">
+  
 - use PaulStoffregen's arduino test sketch —— [teensy41_psram_memtest](https://github.com/PaulStoffregen/teensy41_psram_memtest)
 
 ```c
