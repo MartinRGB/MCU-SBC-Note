@@ -22,8 +22,29 @@
    
   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/50627595-e93a-43fd-a503-5569e4e71ae7" width="50%" height="50%">
 
+### Compile the IMAGE
+
+modify `<SDK Directory>/project/cfg/BoardConfig_IPC/BoardConfig-SPI_NAND-NONE-RV1103_Luckfox_Pico_Mini_B-IPC.mk`
+
+compile the IMAGE:
+
+```
+cd ~/Luckfox-Pico/luckfox-pico
+./build.sh clean
+./build.sh lunch
+# select LuckFox Pico Mini B
+./build.sh 
+```
+
+Burn the system via SocToolKit
+
 ### Test:
+
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/e5eedce3-9fb1-4631-9268-176d41706494" width="50%" height="50%">
  
+- run `dmesg | grep'MiB'`
+
+- run `df -h`
 
 
 
