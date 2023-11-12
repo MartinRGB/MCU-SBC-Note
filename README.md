@@ -32,7 +32,11 @@
 1. [Teensy 4.1 Upgrade](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/03-Soldering/Teensy-4.1-Upgrade)
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/1332c469-77d5-4d3c-971b-d53129596ad0" width="50%" height="50%">
-   
+
+2. [LuckFox Pico Mini A Upgrade](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/03-Soldering/LuckFox-Pico-Mini-A-Upgrade)
+
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/bcc30907-c041-4456-9d2b-a40732796501" width="50%" height="50%">
+  
 ## 04-Prototype
 
 1. [H3 Tiny Computer](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/04/Prototype/H3_Tiny_Computer)
