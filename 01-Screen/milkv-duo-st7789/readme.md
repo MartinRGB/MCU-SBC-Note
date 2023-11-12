@@ -1,6 +1,7 @@
 reference:
 
 Schematic:https://github.com/milkv-duo/duo-hardware/blob/main/duo/duo-schematic-v1.2.pdf
+
 Guide:https://community.milkv.io/t/milk-v-duo-spi-st7789/131
 
 
