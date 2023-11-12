@@ -18,6 +18,10 @@
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/1b7630d9-d44a-48ff-9da0-7722937cb854" width="50%" height="50%">
 
+5. [Milk-V Duo - ST7789](https://github.com/MartinRGB/MCU-SBC-Note/blob/main/01-Screen/milkv-duo-st7789)
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/f70401e9-3006-4b24-b198-4c06c31eb8ab" width="50%" height="50%"/>
+
 ## 02-GPU
 
 1. [RPI CM4 GPU Hack](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/02-GPU/CM4-eGPU)
