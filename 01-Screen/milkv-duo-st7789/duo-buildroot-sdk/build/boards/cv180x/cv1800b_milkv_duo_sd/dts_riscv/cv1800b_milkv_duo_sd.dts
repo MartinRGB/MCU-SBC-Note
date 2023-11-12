@@ -1,0 +1,42 @@
+/dts-v1/;
+#include "cv180x_base_riscv.dtsi"
+#include "cv180x_asic_qfn.dtsi"
+#include "cv180x_asic_sd.dtsi"
+#include "cv180x_default_memmap.dtsi"
+
+&mipi_rx{
+	snsr-reset = <&portc 8 GPIO_ACTIVE_LOW>, <&portc 8 GPIO_ACTIVE_LOW>, <&portc 8 GPIO_ACTIVE_LOW>;
+};
+
+&spi2 {
+	status = "okay";
+	/delete-node/ spidev@0; //两个选择，要么写这个，要么改st7789里的reg
+	st7789v: st7789v@0{
+		compatible = "sitronix,st7789v"; //驱动名
+		reg = <0>;
+		status = "okay";
+		spi-max-frequency = <48000000>;
+		spi-cpol;
+		spi-cpha;
+		rotate = <0>; //旋转，我不转就竖屏
+		fps = <60>;
+		rgb;
+		buswidth = <8>;
+		dc = <&porta 24 GPIO_ACTIVE_HIGH>; //配置连接dc线的管脚，对应上一节的pinmux配置
+		reset = <&porta 23 GPIO_ACTIVE_HIGH>; //配置连接reset线的管脚
+		debug = <0x0>;
+	};
+};
+&uart4 {
+	status = "okay";
+};
+
+&i2c1 {
+       status = "okay";
+       clock-frequency = <100000>;
+};
+
+/ {
+
+};
+
