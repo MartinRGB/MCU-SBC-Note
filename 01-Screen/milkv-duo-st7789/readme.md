@@ -30,3 +30,5 @@ GPIO18    |         CS
 - `duo-buildroot-sdk/build/boards/default/dts/cv180x/cv180x_base.dtsi`
 - `duo-buildroot-sdk/build/boards/cv180x/cv1800b_milkv_duo_sd/linux/cvitek_cv1800b_milkv_duo_sd_defconfig`
 - `duo-buildroot-sdk/u-boot-2021.10/include/configs/cv180x-asic.h`
+
+Replace them then compile the image.burn the system into SD card
