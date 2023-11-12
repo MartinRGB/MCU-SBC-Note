@@ -35,6 +35,8 @@ Replace them then compile the image.burn the system into SD card
 
 ### Target Packages
 
+<img src="https://user-images.githubusercontent.com/7036706/282309072-628a841b-7c9a-4774-a6b6-26b09f98f053.png" width="50%" height="50%">
+
 reference:https://community.milkv.io/t/milkv-duo-python-pip3-nano-vim-tmux/611/1
 
 modify `build/boards/cv180x/cv1800b_milkv_duo_sd/memmap.py`
