@@ -32,3 +32,16 @@ GPIO18    |         CS
 - `duo-buildroot-sdk/u-boot-2021.10/include/configs/cv180x-asic.h`
 
 Replace them then compile the image.burn the system into SD card
+
+### Target Packages
+
+reference:https://community.milkv.io/t/milkv-duo-python-pip3-nano-vim-tmux/611/1
+
+modify `build/boards/cv180x/cv1800b_milkv_duo_sd/memmap.py`
+
+```
+ION_SIZE = 0 * SIZE_1M
+```
+
+run `./build_milkv.sh`
+
