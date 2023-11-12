@@ -1,3 +1,4 @@
+
 reference:
 
 Schematic:https://github.com/milkv-duo/duo-hardware/blob/main/duo/duo-schematic-v1.2.pdf
@@ -6,6 +7,8 @@ Guide:https://community.milkv.io/t/milk-v-duo-spi-st7789/131
 
 
 ### hardware connection
+
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/5bef7e95-fde8-41dd-9d8a-cf0099ba132c" width="75%" height="75%"/>
 
 ```
 Duo       |       st7789
