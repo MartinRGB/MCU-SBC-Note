@@ -16,3 +16,13 @@ GPIOA23   |         RES
 GPIOA24   |         DC
 GPIO18    |         CS
 ```
+
+### Code
+
+- `duo-buildroot-sdk/u-boot-2021.10/board/cvitek/cv180x/board.c`
+- `duo-buildroot-sdk/build/boards/cv180x/cv1800b_milkv_duo_sd/dts_riscv/cv1800b_milkv_duo_sd.dts`
+- `duo-buildroot-sdk/linux_5.10/drivers/staging/fbtft/fbtft-core.c`
+- `duo-buildroot-sdk/linux_5.10/drivers/staging/fbtft/fb_st7789v.c`
+- `duo-buildroot-sdk/build/boards/default/dts/cv180x/cv180x_base.dtsi`
+- `duo-buildroot-sdk/build/boards/cv180x/cv1800b_milkv_duo_sd/linux/cvitek_cv1800b_milkv_duo_sd_defconfig`
+- `duo-buildroot-sdk/u-boot-2021.10/include/configs/cv180x-asic.h`
