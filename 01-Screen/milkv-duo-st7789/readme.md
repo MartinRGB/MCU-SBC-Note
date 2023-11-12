@@ -1,5 +1,5 @@
 
-<img src="af7bc0c53e3bc9db11926552ae7a12d](https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/f70401e9-3006-4b24-b198-4c06c31eb8ab" width="50%" height="50%"/>
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/f70401e9-3006-4b24-b198-4c06c31eb8ab" width="50%" height="50%"/>
 
 reference:
 
