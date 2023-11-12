@@ -20,7 +20,7 @@ https://www.pjrc.com/store/psram.html
   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/442506ff-4bf8-4cf0-9aea-acea4dca6bdb" width="50%" height="50%">
   
   - Lyontek LY68L6400S(Not work for me)
-  - ESP PSRAM64H
+  - ESP PSRAM64H(works for me)
   - AP 6404L-3SQR
 
 ### Steps
