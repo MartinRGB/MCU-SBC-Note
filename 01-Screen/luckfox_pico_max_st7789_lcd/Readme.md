@@ -1,8 +1,11 @@
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/3644c03a-9b99-4a37-95a0-0239772bacfc" width="50%" height="50%">
+
+
 Reference:
 
-https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-GPIO
+GPIO : https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-GPIO
 
-https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-LCD
+SPI 驱动 LCD: https://wiki.luckfox.com/zh/Luckfox-Pico/Luckfox-Pico-LCD
 
 ### Device used
 
