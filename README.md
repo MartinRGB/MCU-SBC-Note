@@ -1,5 +1,15 @@
 # MCU-SBC-Note
 
+## TODO IDEA
+
+- 74HC595 + Slider Control 5+ Display
+
+- Logic Analyzer
+
+- Port DOOM to LuckFoxPico(lack of Display Driver)/Milk-V Duo(lack of USB support)
+
+- RGB LED Web Animation Editor(one or matrix) 
+
 ## 01-Screen
 
 1. [st7789 4 linux](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/01-Screen/st7789_drivers)
