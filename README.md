@@ -79,3 +79,7 @@
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/7921e077-279d-4c2b-a57a-62feb3e030f2" width="50%" height="50%">
 
+3. [Rotatery Cube - Arduino](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/05-Demo/arduino_rotatey_cube)
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/913553f4-516d-47d3-b65e-e5908fe80dbf" width="50%" height="50%">
+
