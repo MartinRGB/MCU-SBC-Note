@@ -85,5 +85,5 @@
 
 4. [Fan Controller](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/05-Demo/arduino-fan-controller)
 
-   <img src="https://user-images.githubusercontent.com/7036706/283999791-46337b97-0427-48cc-bfe0-7856b051560e.jpg" width="50%" height="50%>
+   <img src="https://user-images.githubusercontent.com/7036706/283999791-46337b97-0427-48cc-bfe0-7856b051560e.jpg" width="50%" height="50%">
 
