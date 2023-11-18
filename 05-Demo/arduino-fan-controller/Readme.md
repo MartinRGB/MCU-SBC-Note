@@ -3,7 +3,7 @@
 
 <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/1e917bb8-230d-452a-97a4-69d07654eecf" width="20%" height="20%">
 
-<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/b3ca9f2a-9b5d-4eb7-89ec-74fc227ce1c8" width="20%" height="20%">
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/b3ca9f2a-9b5d-4eb7-89ec-74fc227ce1c8" width="30%" height="30%">
 
 ### Device used
 
