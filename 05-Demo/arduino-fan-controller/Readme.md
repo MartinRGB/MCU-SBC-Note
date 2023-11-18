@@ -10,7 +10,7 @@
 - Boost converters
 - PAJ7620(Use Waveshare's driver)
 - ALPS slide potentiometer
-- SSD 1315 OLED
+- SSD1315 OLED
 - Arduino Nano BLE 33
 
 ### Reference
