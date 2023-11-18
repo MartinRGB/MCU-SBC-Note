@@ -83,3 +83,7 @@
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/913553f4-516d-47d3-b65e-e5908fe80dbf" width="50%" height="50%">
 
+4. [Fan Controller](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/05-Demo/arduino-fan-controller)
+
+   <img src="https://user-images.githubusercontent.com/7036706/283999791-46337b97-0427-48cc-bfe0-7856b051560e.jpg" width="50%" height="50%>
+
