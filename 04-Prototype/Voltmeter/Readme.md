@@ -15,9 +15,9 @@ DC Voltage Sensor 0-25V
 
 <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/612ffb93-aff9-47d4-94fe-9a117e7e61e7" width="50%" height="50%">
 
-OLED Display Module - 0.96 Inch I2C/IIC 4 Pin Blue/Yellow(SSD1316)
+OLED Display Module - 0.96 Inch I2C/IIC 4 Pin Blue/Yellow(SSD1306)
 
-<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/f9efbe51-9822-4685-8870-7d9ec1423c42" width="50%" height="50%">
+<img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/31dc751e-7796-49a1-bdb0-7be611b9b71e" width="50%" height="50%">
 
 ### hardware connection
 
