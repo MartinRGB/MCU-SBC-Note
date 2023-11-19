@@ -4,13 +4,23 @@
 
 - EC11 Encoder
 
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/19f09945-aca1-4914-8230-b13848e600af" width="50%" height="50%"/>
+  
 - Transparent 1.51inch OLED
 
+- MPU6050
+
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/a430df32-32f0-42ed-a22b-7506d663e4cd" width="50%" height="50%"/>
+
 - arduino nano
+
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/0bb7d8b9-929d-475f-9c16-f27d3aed5faa" width="50%" height="50%"/>
 
 ### Reference
 
 https://github.com/tobozo/Rotatey_Cube
+
+https://lastminuteengineers.com/rotary-encoder-arduino-tutorial/
 
 
 
