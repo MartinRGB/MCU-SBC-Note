@@ -5,6 +5,13 @@
 
 <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/b3ca9f2a-9b5d-4eb7-89ec-74fc227ce1c8" width="30%" height="30%">
 
+```
+pinout    funs
+sense   - get rpm
+control - control rpm
+dat     - control neopixel(ws2812)
+```
+
 ### Device used
 
 - Boost converters
