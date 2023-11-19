@@ -50,6 +50,10 @@
 2. [LuckFox Pico Mini A Upgrade](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/03-Soldering/LuckFox-Pico-Mini-A-Upgrade)
 
    <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/bcc30907-c041-4456-9d2b-a40732796501" width="50%" height="50%">
+
+3. [Fix Broken Lamp](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/03-Soldering/fix_broken_lamp)
+
+   <img src="https://user-images.githubusercontent.com/7036706/283719916-db754e49-fdb8-4f64-ad55-185a38fab2dd.jpg" width="50%" height="50%"/>
   
 ## 04-Prototype
 
