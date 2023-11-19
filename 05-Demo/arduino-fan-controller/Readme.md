@@ -33,9 +33,9 @@ dat     - control neopixel(ws2812)
   - Orange for LED value
   - Blue for slider Value
   
-- SSD1315 OLED
+- SSD1306 0.96inch OLED
 
-  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/e3fcf5c1-dca7-46db-bd1b-3fffc0a52b95" width="50%" height="50%">
+  <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/d66eb70b-c153-4137-9e02-dbe92a182234" width="50%" height="50%">
 
 - Arduino Nano BLE 33
 
