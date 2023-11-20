@@ -8,6 +8,8 @@
   
 - Transparent 1.51inch OLED
 
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/71ba135b-4076-4761-9529-26ff6aa9c5a4" width="50%" height="50%"/>
+   
 - MPU6050
 
   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/a430df32-32f0-42ed-a22b-7506d663e4cd" width="50%" height="50%"/>
