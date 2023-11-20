@@ -91,3 +91,8 @@
 
    <img src="https://user-images.githubusercontent.com/7036706/283999791-46337b97-0427-48cc-bfe0-7856b051560e.jpg" width="50%" height="50%">
 
+5. [74HC595 LED](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/05-Demo/74hc595_led)
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/da89ee14-8805-406b-aac6-ba42b1e02885" width="50%" height="50%">
+
+
