@@ -54,6 +54,11 @@
 3. [Fix Broken Lamp](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/03-Soldering/fix_broken_lamp)
 
    <img src="https://user-images.githubusercontent.com/7036706/283719916-db754e49-fdb8-4f64-ad55-185a38fab2dd.jpg" width="50%" height="50%"/>
+
+4. [Mini DSO](https://github.com/MartinRGB/MCU-SBC-Note/tree/main/03-Soldering/MINI-DSO)
+
+   <img src="https://github.com/MartinRGB/MCU-SBC-Note/assets/7036706/909c159d-edf9-4fb4-a2cd-6e74610cce86" width="50%" height="50%"/>
+
   
 ## 04-Prototype
 
